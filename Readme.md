@@ -1,6 +1,7 @@
 ![Cricket Live data PHP APi Client](https://www.facebook.com/rezwanahmod.sami)
 
 ![Version: 1.0](https://www.facebook.com/rezwanahmod.sami)
+![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
 ## Disclaimer
 
