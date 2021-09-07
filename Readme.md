@@ -1,6 +1,6 @@
-[![Cricket Live data PHP APi Client](https://www.facebook.com/rezwanahmod.sami)](https://www.facebook.com/rezwanahmod.sami)]
+[![Cricket Live data PHP APi Client]](https://www.facebook.com/rezwanahmod.sami)
 
-[![Version: 1.0](https://www.facebook.com/rezwanahmod.sami)](https://www.facebook.com/rezwanahmod.sami)]
+[![Version: 1.0]](https://www.facebook.com/rezwanahmod.sami)
 
 ## Disclaimer
 
