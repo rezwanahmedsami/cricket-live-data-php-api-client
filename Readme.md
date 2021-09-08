@@ -14,8 +14,6 @@ Copyright ©2021. Developer **Rezwan ahmod sami** and **[Edussm](https://www.fac
 
  **Developer**: Rezwan Ahmod Sami.
  
- **Version**: 1.0
- 
  **facebook**: https://www.facebook.com/rezwanahmod.sami
  
  **Email**: samiahmed0f0@gmail.com
